@@ -7,7 +7,7 @@
 
 ![Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=lourisvaljunior&show_icons=true&theme=tokyonight)
 
-<<!-- Áreas de Conhecimento -->
+<!-- Áreas de Conhecimento -->
 <div>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px">
