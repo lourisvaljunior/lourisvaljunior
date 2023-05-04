@@ -3,6 +3,8 @@
   
 - 🔭 Atualmente trabalho como professor e coordenador de curso de redes de computadores e desenvolvimento de sistemas
 
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](masolucoesoficial.com.br)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourisvaljunior&show_icons=true&theme=tokyonight)
 
 <!-- Áreas de Conhecimento-->
