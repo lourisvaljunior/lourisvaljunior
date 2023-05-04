@@ -1,7 +1,7 @@
 ### Olá! Eu sou o professor Júnior
 
   
-- 🔭 Atualmente trabalho como professor e coordenador de curso de redes de computadores e desenvolviemnto de sistemas
+- 🔭 Atualmente trabalho como professor e coordenador de curso de redes de computadores e desenvolvimento de sistemas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourisvaljunior&show_icons=true&theme=merko)
 
