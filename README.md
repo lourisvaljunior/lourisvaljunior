@@ -3,7 +3,7 @@
   
 - 🔭 Atualmente trabalho como professor e coordenador de curso de redes de computadores e desenvolvimento de sistemas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourisvaljunior&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourisvaljunior&show_icons=true&theme=tokyonight)
 
 <!-- Áreas de Conhecimento-->
 <div>   
