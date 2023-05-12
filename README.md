@@ -35,4 +35,4 @@
 
 #### Cursos na udemy
 - [Windows Server 2008](https://www.udemy.com/course/configurar-servidores-windows-sem-complicacao/)
-- [Linux - da interface gráfica alinha de comando](https://www.udemy.com/course/linuxubuntu-da-interface-grafica-a-linha-de-comando/)
+- [Linux - da interface gráfica a linha de comando](https://www.udemy.com/course/linuxubuntu-da-interface-grafica-a-linha-de-comando/)
