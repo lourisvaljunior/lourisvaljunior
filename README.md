@@ -30,8 +30,8 @@
   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>  
 
-#### Cursos
-- [Google Cloud](https://www.cloudskillsboost.google/public_profiles/511e4dbb-ba2c-40d9-8051-db066ace5554)
+#### Cursos realizados
+- [Google Cloud Fundation](https://www.cloudskillsboost.google/public_profiles/511e4dbb-ba2c-40d9-8051-db066ace5554)
 
 #### Últimos vídeos
 - [Sistema de votação on-line](https://www.youtube.com/watch?v=JtE6YvewUOg&t=133s)
