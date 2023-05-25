@@ -30,6 +30,9 @@
   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>  
 
+####Linkedin
+- [Redes Sociais](https://www.linkedin.com/in/lourisval-ara%C3%BAjo-291029141/)
+
 #### Cursos realizados
 - [Google Cloud Fundation](https://www.cloudskillsboost.google/public_profiles/511e4dbb-ba2c-40d9-8051-db066ace5554)
 
