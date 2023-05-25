@@ -7,6 +7,9 @@
 
 ![Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=lourisvaljunior&show_icons=true&theme=tokyonight)
 
+<!-- Cursos -->
+https://www.cloudskillsboost.google/public_profiles/511e4dbb-ba2c-40d9-8051-db066ace5554
+
 <!-- Áreas de Conhecimento -->
 <div>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px">
