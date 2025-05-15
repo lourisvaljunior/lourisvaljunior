@@ -1,9 +1,7 @@
 ### Olá! Eu sou o professor Júnior
 
   
-- 🔭 Atualmente trabalho como professor e coordenador de curso de redes de computadores e desenvolvimento de sistemas
-
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://masolucoesoficial.com.br)
+- 🔭 Atualmente trabalho como Analista de Sistemas
 
 ![Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=lourisvaljunior&show_icons=true&theme=tokyonight)
 
