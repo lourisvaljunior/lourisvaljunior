@@ -1,7 +1,7 @@
 ### Olá! Eu sou o professor Júnior
 
   
-- 🔭 Atualmente trabalho como Analista de Sistemas
+- 🔭 Atualmente trabalho como Analista de Sistemas em uma Célula de Arquitetura e Inovção de TI
 
 ![Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=lourisvaljunior&show_icons=true&theme=tokyonight)
 
